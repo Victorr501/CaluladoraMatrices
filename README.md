@@ -26,6 +26,6 @@ Si quieres ejecutar este proyecto en tu propia máquina, sigue estos pasos:
 
 1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado.
 2. Abre una terminal en la carpeta del proyecto.
-3. Instala las dependencias necesarias:
+3. Instala las dependencias necesarias: 
 ```bash
    npm install
