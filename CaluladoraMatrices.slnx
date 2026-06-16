@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="caluladoramatrices.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
