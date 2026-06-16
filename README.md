@@ -11,7 +11,7 @@ Este proyecto nace para aprender 2 cosas muy importantes, el calculo de metrices
 * **Operaciones Matemáticas:** Suma, resta, multiplicación y división (mediante matriz inversa).
 * **Interfaz Dinámica:** Cuadrículas interactivas para introducir fácilmente los valores de las matrices de origen.
 * **Cálculo Inmediato:** Visualización en tiempo real de la matriz resultado al interactuar con los números o cambiar el tipo de operación.
-* **100% Frontend:** Toda la lógica y el procesamiento de datos se ejecutan de forma segura y rápida en el cliente.
+* **100% Frontend:** Toda la lógica y el procesamiento de datos se ejecutan de forma segura y rápida en el cliente. 
 
 ## Tecnologías
 
