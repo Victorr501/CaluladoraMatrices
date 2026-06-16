@@ -13,14 +13,14 @@ Este proyecto nace para aprender 2 cosas muy importantes, el calculo de metrices
 * **Cálculo Inmediato:** Visualización en tiempo real de la matriz resultado al interactuar con los números o cambiar el tipo de operación.
 * **100% Frontend:** Toda la lógica y el procesamiento de datos se ejecutan de forma segura y rápida en el cliente.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 * **Core:** React + JavaScript
 * **Build Tool:** Vite
 * **Entorno de Desarrollo:** Visual Studio 2026
 * **Hosting (Planificado):** Azure Static Web Apps
 
-## 📦 Instrucciones para Desarrollo Local
+## Instrucciones para Desarrollo Local
 
 Si quieres ejecutar este proyecto en tu propia máquina, sigue estos pasos:
 
